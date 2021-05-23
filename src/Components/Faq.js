@@ -1,4 +1,4 @@
-import { React, useState } from "react";
+import { React } from "react";
 
 import FaqElement from "./FaqElement";
 import Container from "./Container";
