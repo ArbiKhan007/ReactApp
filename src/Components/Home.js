@@ -11,7 +11,7 @@ function Home() {
         name="Harvey Specter"
         image={image}
         work="Lawyer at Specter Litt"
-        desc="Works as lawyer at Pearson Spector. Good at hiring. Intelligent Guy. Handsome and Suave. Blah Blah Blah Blah. Works as lawyer at Pearson Spector. Good at hiring. Intelligent Guy. Handsome and Suave. Blah Blah Blah Blah."
+        desc="Works as lawyer at Pearson Specter. Good at hiring. Intelligent Guy. Handsome and Suave. Blah Blah Blah Blah. Works as lawyer at Pearson Specter. Good at hiring. Intelligent Guy. Handsome and Suave. Blah Blah Blah Blah."
       />
     </Container>
   );
