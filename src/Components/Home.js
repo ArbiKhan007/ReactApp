@@ -10,7 +10,7 @@ function Home() {
       <Card
         name="Harvey Specter"
         image={image}
-        work="Lawyer at Pearson Spector"
+        work="Lawyer at Specter Litt"
         desc="Works as lawyer at Pearson Spector. Good at hiring. Intelligent Guy. Handsome and Suave. Blah Blah Blah Blah. Works as lawyer at Pearson Spector. Good at hiring. Intelligent Guy. Handsome and Suave. Blah Blah Blah Blah."
       />
     </Container>
