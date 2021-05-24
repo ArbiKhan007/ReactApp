@@ -47,7 +47,7 @@ function Header() {
     <div>
       <header style={headerStyle}>
         <img className="App-logo" style={logoStyle} src={logo} alt="Hey" />
-        <h1>John Smith</h1>
+        <h1>Steve Harvey</h1>
         <h1 style={{ paddingLeft: "20px", color: "#000", cursor: "pointer" }}>
           <FontAwesomeIcon onClick={setDisplayBlock} icon={faEllipsisV} />
         </h1>
